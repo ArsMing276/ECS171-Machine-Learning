@@ -10,9 +10,10 @@ https://www.kaggle.com/c/coupon-purchase-prediction
 
 To whom it may concern:
 
-As I mentioned in the application, I had given you two repositories on some of my past projects and homework. One of them is where you are watching now. The other one, however, you may find the address becoming invalid. This is because I modified that repository after I had submitted my application. If this is the case for you, you may go to the following updated address to watch.
+As I mentioned in the application, I had given you two repositories on some of my past projects and homework. One of them is where you are watching now. The other one, however, you may find the link becoming invalid. This is because I modified that repository after I had submitted my application. If this is the case for you, you may go to the following updated address to watch.
 
 https://bitbucket.org/ArsMing276/stat-242/src
 
 Best Regards,
+
 Yilun Yang
