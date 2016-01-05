@@ -14,6 +14,8 @@ As I mentioned in the application, I had given you two repositories on some of m
 
 https://bitbucket.org/ArsMing276/stat-242/src
 
+Besides, I have put my up-to-date transcript on dropbox since I can't modify my application once submitted, the dropbox address is https://www.dropbox.com/s/mbtsi6m42e0tdzn/transcript_ucd.pdf?dl=0, help it helps.
+
 Best Regards,
 
 Yilun Yang
